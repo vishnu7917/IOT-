@@ -21,8 +21,8 @@ sheet1=wb1.active
 time.sleep(3)
 camera = PiCamera()
 
-channel_id=1833772
-write_key='X4H7ZRBOYPAHYP9M'
+channel_id=XXXXXXXX
+write_key='XXXXXXXXXXXX' #give your cloud write key
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
