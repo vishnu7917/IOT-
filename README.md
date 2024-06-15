@@ -1,1 +1,2 @@
 This repository holds the Raspberry Pi-4 based coding.
+This Parking(B5) file contains the code for a simple parking application which has 2 ultrasonic sensors placed in parking slot for car identification and 2 IR sensors along with a servo motor to identify weather a car has arrived to enter the lot or leave the lot.(Servo motor acts as a gate).An a RPI camera to capture and extract the number plate of a the car and search for that number in the given file.(Weather it has a booking or not).
